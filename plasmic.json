@@ -609,6 +609,16 @@
           "id": "pePxvWacXX6w",
           "name": "Icon8Icon",
           "moduleFilePath": "plasmic/blank_website_mobile_first/icons/PlasmicIcon__Icon8.jsx"
+        },
+        {
+          "id": "tXjrkakcgKS_",
+          "name": "YoutubeColorSvgrepoComsvgIcon",
+          "moduleFilePath": "plasmic/blank_website_mobile_first/icons/PlasmicIcon__YoutubeColorSvgrepoComsvg.jsx"
+        },
+        {
+          "id": "AX_onDUE64Mw",
+          "name": "YoutubeSvgrepoComsvgIcon",
+          "moduleFilePath": "plasmic/blank_website_mobile_first/icons/PlasmicIcon__YoutubeSvgrepoComsvg.jsx"
         }
       ],
       "images": [
